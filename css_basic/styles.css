@@ -15,3 +15,9 @@ aside {
   flex: 1; 
   overflow-y: auto;
 }
+header {
+  border: 1px solid rgb(241, 241, 241);
+}
+span {
+  color: rgb(187, 180, 194);
+}
